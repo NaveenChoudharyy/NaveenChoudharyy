@@ -369,15 +369,15 @@
 ---
 
 <!-- ========================================================= -->
-<!--                    GITHUB TROPHIES                        -->
+<!--                    GITHUB Profile                        -->
 <!-- ========================================================= -->
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h2 align="center">🏆 GitHub Profile</h2>
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=naveenchoudharyy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"
-    alt="GitHub Trophies"
+    src="[https://github-profile-trophy.vercel.app/?username=naveenchoudharyy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1](https://github.com/NaveenChoudharyy)"
+    alt="GitHub Profile"
   />
 </p>
 
