@@ -25,7 +25,7 @@
 
 ## 🧭 About Me
 
-I'm an aspiring **Data Analyst / Data Scientist** with **4+ years of professional experience** across insurance and mortgage operations, now focused on building practical data analytics solutions.
+I'm an aspiring **Data Scientist** with **4+ years of professional experience** across insurance and mortgage operations, now focused on building practical data analytics solutions.
 
 My work combines **SQL, Python, Power BI, Tableau, and Excel** to clean and analyze data, build dashboards, identify trends, and translate complex datasets into actionable business insights.
 
