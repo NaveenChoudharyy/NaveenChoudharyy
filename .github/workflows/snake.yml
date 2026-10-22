@@ -16,13 +16,13 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Snake Animation
+      - name: Generate Sky Blue Snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=%2338BDF8
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2338BDF8
 
       - name: Push Snake Animation
         uses: crazy-max/ghaction-github-pages@v4
