@@ -394,6 +394,16 @@ Explore interactive Tableau dashboards and visual analytics projects.
 
 <div align="center">
 
+## 🐍 My GitHub Contributions
+
+![Snake animation](https://raw.githubusercontent.com/NaveenChoudharyy/NaveenChoudharyy/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+<div align="center">
+
 `Data Analytics` · `Business Intelligence` · `SQL` · `Python` · `Power BI` · `Tableau`
 
 </div>
